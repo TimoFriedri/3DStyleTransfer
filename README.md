@@ -6,20 +6,11 @@ This repository provides two 3D style transfer pipelines.
 
 
 ## Code
-The source code for the Eigendecomposition-based style Transfer and the voxel-based Neural Style Transfer is organized in two seperate self-contained Jupyter Notebooks.
+The source code for the voxel-based Neural Style Transfer and the Eigendecomposition-based style Transfer is organized in two seperate self-contained Jupyter Notebooks.
 All information necessary to execute the notebooks is described in the notebooks themselves.
 
 ---
-## Eigendecomposition-based style transfer
-![portfolio](./doc/EDportfolio.png)
 
-We provide the code necessary to reproduce the results in the following publications:
-
-- Friedrich, T., Schmitt, S., & Menzel, S. (2020). Rapid Creation of Vehicle Line-Ups By Eigenspace Projections for Style Transfer. Proceedings of the Design Society: DESIGN Conference, 1, 867–876. https://doi.org/10.1017/dsd.2020.162
-
-- Friedrich, T., Three-Dimensional Voxel-Based Neural Style Transfer and Quantification (Dissertation submitted)
-
----
 ## Voxel-based Neural Style Transfer
 ![portfolio](./doc/VBST2.png), ![portfolio](./doc/VBST1.png)
 
@@ -31,7 +22,17 @@ We provide the code necessary to reproduce the results in the following publicat
 
 - Friedrich, T., Three-Dimensional Voxel-Based Neural Style Transfer and Quantification (Dissertation submitted)
 
+---
+## Eigendecomposition-based Style Transfer
+![portfolio](./doc/EDportfolio.png)
+
+We provide the code necessary to reproduce the results in the following publications:
+
+- Friedrich, T., Schmitt, S., & Menzel, S. (2020). Rapid Creation of Vehicle Line-Ups By Eigenspace Projections for Style Transfer. Proceedings of the Design Society: DESIGN Conference, 1, 867–876. https://doi.org/10.1017/dsd.2020.162
+
+- Friedrich, T., Three-Dimensional Voxel-Based Neural Style Transfer and Quantification (Dissertation submitted)
 
 ---
+
 ## Licensing
 The software in this repository is licensed under the GPL-3.0. For more details on the license, please check [the license file.](LICENSE)
